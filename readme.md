@@ -1,5 +1,7 @@
 # MoodMate 🤖
 
+[svg](https://github.com/akashgoswami139/MoodMate/blob/main/readme.md#moodmate-)
+
 MoodMate is a mini AI chatbot built with **LangChain, OpenRouter, and Streamlit** that lets users choose the personality of the AI before starting a conversation.
 
 Choose between:
@@ -11,6 +13,8 @@ Choose between:
 Each mood uses a different system prompt, giving the chatbot a different personality while maintaining conversational history.
 
 ## ✨ Features
+
+[svg](https://github.com/akashgoswami139/MoodMate/blob/main/readme.md#-features)
 
 - 🎭 Three AI personalities: Happy, Sad, and Angry
 - 💬 Conversational chat history
@@ -24,6 +28,8 @@ Each mood uses a different system prompt, giving the chatbot a different persona
 
 ## 🛠️ Tech Stack
 
+[svg](https://github.com/akashgoswami139/MoodMate/blob/main/readme.md#%EF%B8%8F-tech-stack)
+
 - **Python**
 - **LangChain**
 - **LangChain OpenRouter**
@@ -33,15 +39,9 @@ Each mood uses a different system prompt, giving the chatbot a different persona
 
 ## 📂 Project Structure
 
-```text
-MoodMate/
-│
-├── app.py
-├── agent.py
-├── requirements.txt
-├── .env
-├── .gitignore
-└── README.md
+[svg](https://github.com/akashgoswami139/MoodMate/blob/main/readme.md#-project-structure)
+
+
 
 
 
