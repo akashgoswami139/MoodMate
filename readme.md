@@ -42,3 +42,22 @@ MoodMate/
 ├── .env
 ├── .gitignore
 └── README.md
+
+
+
+## 👨‍💻 About the Developer
+
+Hi, I'm **Akash Goswami**, an aspiring **AI & Machine Learning Engineer**.
+
+
+I enjoy turning AI concepts into working projects and experimenting with different LLMs, APIs, agent workflows, and deployment platforms. MoodMate is one of my small projects created to explore **LangChain message handling, system prompts, conversation history, and LLM personality control**.
+
+### 🔗 Connect With Me
+
+- GitHub: https://github.com/akashgoswami139
+- LinkedIn: https://www.linkedin.com/in/akashgoswami-/
+- X: https://x.com/akashgoswami144
+
+### ✨ Built By
+
+**Akash Goswami**
