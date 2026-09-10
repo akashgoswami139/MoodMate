@@ -1,0 +1,4 @@
+langchain-core
+langchain-openrouter
+python-dotenv
+streamlit
